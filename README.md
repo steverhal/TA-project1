@@ -1,3 +1,3 @@
 # TA-project1
-Veebiprogrammeerimise esimesed katsetused
-Siin on hoiustatud esimese nelja tunni jooksul loodud kood
+Veebiprogrammeerimise esimesed katsetused.
+Siin on hoiustatud esimese nelja tunni jooksul loodud kood.
